@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+autopep8 = "*"
+
+[packages]
+certifi = "==2020.4.5.1"
+chardet = "==3.0.4"
+idna = "==2.9"
+pytz = "==2019.3"
+requests = "==2.23.0"
+urllib3 = "==1.25.8"
+django = "*"
+djangorestframework = "*"
+django-rest-knox = "*"
+
+[requires]
+python_version = "3.8"
