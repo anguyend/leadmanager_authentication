@@ -5,7 +5,7 @@ Full stack app with React, Redux &amp; Django
 ## Quick Start
 
 ```
-># Install dependencies
+> # Install dependencies
 npm install
 
 ># Serve API on localhost:8000
